@@ -1,0 +1,7 @@
+{application, tap, [
+    {description, ""},
+    {vsn, ["0.0"]},
+    {applications, [kernel, stdlib, eradius]},
+    {registered, []},
+    {env, []}
+]}.
